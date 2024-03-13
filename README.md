@@ -24,6 +24,7 @@
 	<img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40" style="max-width: 100%;">
 	
 </div>
+
 ---
 
 
@@ -31,6 +32,7 @@
 <div>
 	<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
 </div>
+
 ---
 
 
