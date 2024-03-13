@@ -28,12 +28,10 @@
 </div>
 ---
 
----
 🔨 Инструменты:
 <div>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
 </div>
-
 ---
 Now I am actively mastering the front-end technology stack.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
