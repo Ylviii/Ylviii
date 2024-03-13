@@ -14,11 +14,20 @@
 - 🎯 Хочу освоить профессию и найти работу!
 - 📧 Как связаться со мной?[![Telegram Badge](https://img.shields.io/badge/-Ylviii013-blue?style=flat&logo=Telegram&logoColor=2hite)](https://t.me/Ylviii013)[![Static Badge](https://img.shields.io/badge/Mail-white?style=flat&logo=GMail&logoColor=blue)](mailto:dima.talanov.02@mail.ru)
 
-
-
  
 ---
 
+---
+💻Технологии:
+<div>
+	<img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40" style="max-width: 100%;">
+	<img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40" style="max-width: 100%;">
+	<img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40" style="max-width: 100%;">
+	<img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40" style="max-width: 100%;">
+	
+</div>
+
+---
 Now I am actively mastering the front-end technology stack.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 	![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
