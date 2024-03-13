@@ -12,7 +12,8 @@
 - 💻 Учусь в институте!
 - 💡 Прохожу курс от Skillbox!
 - 🎯 Хочу освоить профессию и найти работу!
-- 📧 Как связаться со мной? 
+- 📧 Как связаться со мной?![Static Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&link=https%3A%2F%2Ft.me%2FYlviii013)
+ 
 ---
 
 Now I am actively mastering the front-end technology stack.
