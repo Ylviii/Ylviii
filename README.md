@@ -14,7 +14,6 @@
 - 🎯 Хочу освоить профессию и найти работу!
 - 📧 Как связаться со мной?[![Telegram Badge](https://img.shields.io/badge/-Ylviii013-blue?style=flat&logo=Telegram&logoColor=2hite)](https://t.me/Ylviii013)[![Static Badge](https://img.shields.io/badge/Mail-white?style=flat&logo=GMail&logoColor=blue)](mailto:dima.talanov.02@mail.ru)
 
- 
 ---
 
 ---
@@ -28,6 +27,8 @@
 </div>
 ---
 
+
+---
 🔨 Инструменты:
 <div>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
