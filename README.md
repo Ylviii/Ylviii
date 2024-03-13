@@ -12,7 +12,7 @@
 - 💻 Учусь в институте!
 - 💡 Прохожу курс от Skillbox!
 - 🎯 Хочу освоить профессию и найти работу!
-- 📧 Как связаться со мной?[![Telegram Badge](https://img.shields.io/badge/-Ylviii013-blue?style=flat&logo=Telegram&logoColor=2hite)(https://t.me/Ylviii013)]
+- 📧 Как связаться со мной?[![Telegram Badge](https://img.shields.io/badge/-Ylviii013-blue?style=flat&logo=Telegram&logoColor=2hite)](https://t.me/Ylviii013)
 
 
  
